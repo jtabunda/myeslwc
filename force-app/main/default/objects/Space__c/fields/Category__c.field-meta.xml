@@ -60,6 +60,11 @@
                 <default>false</default>
                 <label>Walking Mediation Paths</label>
             </value>
+            <value>
+                <fullName>Large Groups</fullName>
+                <default>false</default>
+                <label>Large Groups</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
